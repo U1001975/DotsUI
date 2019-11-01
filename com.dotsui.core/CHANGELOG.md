@@ -2,7 +2,23 @@
 
 **This file contains changelog for all DotsUI packages**
 
-## [0.3.0] - 2019-09-xx
+## [0.4.0] 2019-10-27
+
+### Added
+
+* Slider control
+* DotsUI inspector window (now displays only UI mesh info)
+
+### Changes
+
+* Removed old conversion pipeline
+* Refactored GO->Entity conversion code
+
+### Fixes
+
+* Fixed sibling order after GO->Entity conversion
+
+## [0.3.0] - 2019-09-11
 
 ### Added
 
